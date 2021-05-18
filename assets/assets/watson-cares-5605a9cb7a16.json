@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "watson-cares-a9hv",
+  "private_key_id": "27ec0e477d7c90030a31e2451e337dfa202710b5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDKAif2CZpjbTAG\nxYQyY4uXY45YziL0Pvsx09TgDwrIH8/G+2iRPJdEhg7r8b70xp3A5nPbL5fWNeqb\nQ0xedZJUddL4PG0716rvLntKZ1oU6U0BvZx/qv1zswaX5J8mWXzGWrGTDcgVeyxP\nPG4Xtx0u1SwHOMLs8u+pFCkalctiYsTWL7XM16ymU7DkEsbrlSinT0En6FzkqgyT\nLT7OKhbh6ip1CR666DxbLMGUGMy96okiQH9wM7V9FZgB9P51j9l4SUcGStff+keP\ng+YVMRcst+r1iJAy7HU88h8bsZibNCS7Ds0xar7vdFS8Sv1baAhDrRt/CJfTGpKv\n6UdONd7NAgMBAAECggEAFsVactIPTLDkroa6SaHN/PE0fQ8zgnvM/gdmYiFf8kIf\nvkrdtS1y0b8Y1IDqKRZwduujWKxLPdLTENBrveQb7BhiAShymcHMW2zOagsvbNcF\nnrIcf4mrS0z9a8bSJ9UDiypzBOQTT1SUoJPrxxGVoQ9XiLLdyi7yVAlZPs1u4TaU\nrg0/lhRULHTx8OapRf9tKgntdDSlklYFprc5Z1dYoO5j/XVb4TsJvUT6tpk4Xp3N\nKmzkHy8m/6RNeQwAe4swRLumposWztO5V+wG5XnB9UacS31O3RrMke1G9m80+EZm\n7+l0nLCbecE3xGiteK+kZ8DlbfsF7F4EG5pRkmN88wKBgQDuEdB/woedJDrLzEIw\nPy1OSMkMQeVhK2IaB5Fle1syO0hzvPJxf/mEmZd73yNKMemRtk6wjxkSx4tTQcLl\npko8c4ouYoJ8sri0itDVu6Cd+KeZAf0Qtc2yYTN43Cek9yhaF/Yw3IUaGHwuk/Rh\nSf+Ur5Bp00wWJRtBjGRANKMmiwKBgQDZOQ0urrXLHD9hd+v1X/0Uws6mNaiL3TId\nzTGzxkf0dd/DTayOnG6SUfUxWG/+F0k+PqsUVsJeI0JBYJatNcmLWSEvm6peeMOj\nj2cydz1KePOo1zHxK97JEh7rbQPmP3yzkIaZT9ARDITf6UnytJ7NP0VRh65w0yFY\n4S3D3ZqTBwKBgQDCnOF6b0V5GhLOYq2Az0R0CGABmySt6E8LxEABW3PTfk7d/gma\n6ujIkt4YrvIkRuUO7p8pCfGPPnwQlWODZAqvnCvLe0/8LAV94TSSZA0K1if7lnqP\nXG9IcNko5Z+q5TihXZEtpDdSe82YLe7KUTmTDGnbeJVsTO0ZCnExY1YzvQKBgB4G\nr9bLGZ/4yJ4NeJVTbmVHRE9fTWv/6GSML5mdB+c3v/V8MCUKZJJfN9hZVCm4SEyN\nVxKZp4Zhs0/cLRfGPpS/fkHZb6RdZxWdxfMI3nUD4RJupJ2kpcf/dDywtgBGuFMN\n4D0i9izVISzeT3V4GBdg7pEFg0xfMtXZUn0nja1TAoGAWqAJ2pGkw5QEdavMoq4U\naHhr2+UUHnPUwzgyHoxjJBUzM9/geWXeE6VXWDpMlVm5t30/51BerZCst9vok3VA\nKSc+KOtoccEZySn85aw2U8++qaxOMGthH/IO8TcN15rWLMoz60PIZ9cJARqhiivm\nc6+fRwgPpCNITc9WTAvl1jk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbotnow@watson-cares-a9hv.iam.gserviceaccount.com",
+  "client_id": "107265293937920747251",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbotnow%40watson-cares-a9hv.iam.gserviceaccount.com"
+}
